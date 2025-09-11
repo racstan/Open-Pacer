@@ -200,7 +200,7 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 
 For contributions, please contact me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/rachitasthana)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/rachitasthana)
 - **Email**: nof00120@gmail.com
 
 ## � License
