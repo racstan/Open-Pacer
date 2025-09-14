@@ -1,4 +1,4 @@
-#  Open Pacer
+# 🏃‍♂️ Open Pacer
 
 **Advanced Iteration Tracker for Repetitive Tasks & Performance Analytics**
 
@@ -24,7 +24,6 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
   </tr>
 </table>
 
-
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -40,7 +39,7 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 - **Performance Streaks**: Daily activity tracking with current and best streak records
 - **Weekly/Monthly Insights**: Comprehensive activity patterns and trends
 
-### 📈 Progress Intelligence
+### **Progress Intelligence**
 - **Multi-Benchmark Comparison**: 
   - Latest vs Average performance
   - Latest vs Personal Best
@@ -50,15 +49,16 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 
 ### 📋 Data Management
 - **Multiple Export Formats**: CSV, JSON, and comprehensive PDF reports
-- **Shareable Analytics**: Generate detailed reports with performance insights
+- **Shareable Analytics**: Generate detailed PDF reports with performance insights
 - **Project Management**: Rename, edit, and organize projects with custom colors
 - **Backup-Ready**: All data stored locally with export capabilities
 
 ### 🎨 User Experience
 - **Material Design 3**: Modern, intuitive interface following Google's design guidelines
-- **Dark/Light Themes**: Automatic theme support with user preference persistence
+- **Enhanced Dark/Light Themes**: Perfect text contrast with pure white text in dark mode and black in light mode
+- **Comprehensive In-App Documentation**: Complete usage guide with good/bad examples for all project types
 - **Responsive Design**: Optimized for various screen sizes and orientations
-- **Accessibility**: Built with accessibility best practices
+- **Accessibility**: Built with accessibility best practices and improved visual clarity
 
 ## 🎯 Use Cases
 
@@ -73,7 +73,7 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 - Language learning session monitoring
 - Art and craft project iterations
 
-### 📚 **Education & Study**
+### � **Education & Study**
 - Reading session timing
 - Problem-solving practice tracking
 - Flashcard review sessions
@@ -90,6 +90,14 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 - Exercise routine monitoring
 - Daily habit formation
 - Mindfulness practice timing
+
+### � **Enhanced Documentation Available In-App!**
+**v1.1 now includes comprehensive usage guidelines:**
+- **⚡ Efficiency-Based Projects**: Clear examples of when faster = better (running, coding, assembly work)
+- **⏱️ Duration-Based Projects**: Activities where longer = better (study, meditation, practice)
+- **Good vs. Bad Use Cases**: Color-coded indicators to help you choose the right project type
+- **Pro Tips**: Best practices for tracking and improving performance
+- Visit **Settings** → **📚 How to Use Open Pacer** for complete documentation
 
 ## 🛠️ Technical Stack
 
@@ -126,7 +134,8 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 ### **1. Create Your First Project**
 - Tap the **+** button on the main screen
 - Enter project name and description
-- Choose a color theme
+- Choose between **Efficiency-Based** (faster = better) or **Duration-Based** (longer = better) project types
+- Select a color theme
 - Start tracking immediately
 
 ### **2. Track Iterations**
@@ -141,7 +150,13 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 - Export detailed PDF reports
 - Track improvement trends over time
 
-### **4. Manage Projects**
+### **4. Learn Best Practices** *(New in v1.1!)*
+- Visit **Settings** → **📚 How to Use Open Pacer** for comprehensive documentation
+- Review efficiency-based vs. duration-based project examples
+- Check good vs. bad use case indicators
+- Follow pro tips for optimal tracking results
+
+### **5. Manage Projects**
 - **Rename**: Tap the edit button next to any project
 - **Export Data**: Use the share button in analytics
 - **View Patterns**: Check weekly/monthly activity summaries
@@ -167,7 +182,15 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 
 ## 🔄 Version History
 
-### **v1.0.1** (Latest)
+### **v1.1** (Latest - September 14, 2025)
+- ✅ **Fixed Dark Theme Text Visibility** - Project text now displays as pure white in dark mode and black in light mode for optimal contrast
+- ✅ **Enhanced Settings Documentation** - Comprehensive guide on how to use Open Pacer effectively
+- ✅ **Detailed Use Case Examples** - Clear good vs. bad examples with color-coded indicators for both project types
+- ✅ **Two Project Type Guidelines** - Distinct documentation for efficiency-based vs. duration-based projects
+- ✅ **Pro Tips Section** - Best practices for tracking iterative work and maximizing app benefits
+- ✅ **Improved User Experience** - Better visual clarity and comprehensive in-app documentation
+
+### **v1.0.1**
 - ✅ Initial release with comprehensive analytics system
 - ✅ Project-based organization with custom colors
 - ✅ Advanced progress tracking and efficiency analysis
@@ -200,12 +223,12 @@ Open Pacer is a sophisticated Android application designed to track, analyze, an
 
 For contributions, please contact me:
 
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/rachitasthana)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Email**: nof00120@gmail.com
 
 ## � License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
